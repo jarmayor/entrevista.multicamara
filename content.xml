@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202603241640435GFTIJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260324164043I2YGJO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Planificación de la realización de una entrevista multicámara</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El alumnado del ciclo formativo de Grado Superior en Realización de Proyectos Audiovisuales y Espectáculos desarrollará la planificación completa de un programa de televisión basado en una entrevista multicámara, abordando todas las fases de preproducción desde una perspectiva profesional. A lo largo de 16 sesiones, el alumnado analizará el lenguaje audiovisual, desglosará guiones, elaborará escaletas, diseñará la planificación técnica (cámaras, sonido, iluminación) y organizará los recursos necesarios para la realización del programa. El resultado final será un dossier profesional de planificación, acompañado de una infografía interactiva y un vídeo real que formará parte del programa, como una pieza de biografía o contextualización del entrevistado.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774366824682</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+      <odeBlockId>block-1774343238788-5eana64js</odeBlockId>
+      <blockName>Etapa educativa y nivel</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+          <odeBlockId>block-1774343238788-5eana64js</odeBlockId>
+          <odeIdeviceId>idevice-1774343238784-3obpkpzzs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Formación Profesional de Grado Superior. Primer curso del Ciclo de Realización de Proyectos Audiovisuales y Espectáculos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774343238784-3obpkpzzs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Formación Profesional de Grado Superior. Primer curso del Ciclo de Realización de Proyectos Audiovisuales y Espectáculos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+      <odeBlockId>block-1774343296931-dhrgftjfv</odeBlockId>
+      <blockName>Módulo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+          <odeBlockId>block-1774343296931-dhrgftjfv</odeBlockId>
+          <odeIdeviceId>idevice-1774343296929-fqiqf6ide</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Planificación de la realización en televisión.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774343296929-fqiqf6ide","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Planificación de la realización en televisión.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+      <odeBlockId>block-1774343325948-tx5zdxwtk</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+          <odeBlockId>block-1774343325948-tx5zdxwtk</odeBlockId>
+          <odeIdeviceId>idevice-1774343325946-xpdkagum8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Agrupamientos</strong></em></p>
+<ul>
+<li><strong>Grupos cooperativos </strong>(8 personas): Para el simulacro de mesa de producción, desarrollo de la idea y el guion, concreción en plantas de escenario, listados de planos, desarrollo de la escaleta y creación de materiales (cabeceras, grafismos, pasos a publi)</li>
+<li><strong>Parejas</strong>: Para la grabación edición de piezas audiovisuales (trabajo colaborativo).<br /></li>
+<li><strong>Individual</strong>: Para la realización de una memoria descriptiva de la participación en el proyecto común</li>
+</ul>
+<p><br /><em><strong>Espacios</strong></em></p>
+<p>Aula teórica con equipos de ofimática, plató para ubicación de elementos para realizar la planificación, aula de edición de vídeo y espacios comunes del centro para el rodaje del vídeo.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774343325946-xpdkagum8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Agrupamientos</strong></em></p>\n<ul>\n<li><strong>Grupos cooperativos </strong>(8 personas): Para el simulacro de mesa de producción, desarrollo de la idea y el guion, concreción en plantas de escenario, listados de planos, desarrollo de la escaleta y creación de materiales (cabeceras, grafismos, pasos a publi)</li>\n<li><strong>Parejas</strong>: Para la grabación edición de piezas audiovisuales (trabajo colaborativo).<br /></li>\n<li><strong>Individual</strong>: Para la realización de una memoria descriptiva de la participación en el proyecto común</li>\n</ul>\n<p><br /><em><strong>Espacios</strong></em></p>\n<p>Aula teórica con equipos de ofimática, plató para ubicación de elementos para realizar la planificación, aula de edición de vídeo y espacios comunes del centro para el rodaje del vídeo.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+      <odeBlockId>block-1774343711450-dkgw2d4dn</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+          <odeBlockId>block-1774343711450-dkgw2d4dn</odeBlockId>
+          <odeIdeviceId>idevice-1774343711447-03fk3ikf2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>16 sesiones de 55 minutos.</p>
+<ul>
+<li>Fase de investigación y formato: 2 sesiones.</li>
+<li>Guion y escaleta: 4 sesiones.</li>
+<li>Producción de materiales (Infografía y Vídeo): 6 sesiones.</li>
+<li>Planificación técnica (plantas, cámaras e iluminación): 4 sesiones.</li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774343711447-03fk3ikf2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>16 sesiones de 55 minutos.</p>\n<ul>\n<li>Fase de investigación y formato: 2 sesiones.</li>\n<li>Guion y escaleta: 4 sesiones.</li>\n<li>Producción de materiales (Infografía y Vídeo): 6 sesiones.</li>\n<li>Planificación técnica (plantas, cámaras e iluminación): 4 sesiones.</li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+      <odeBlockId>block-1774343782295-j0aok16ek</odeBlockId>
+      <blockName>Productos finales:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+          <odeBlockId>block-1774343782295-j0aok16ek</odeBlockId>
+          <odeIdeviceId>idevice-1774343782293-ixq466a68</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Infografía técnica interactiva </strong>(Plantilla de grafismo para vMix). El alumnado diseñará una pieza gráfica en Photoshop que será animada en vMix GT Title Designer para generar una plantilla editable. El elemento interactivo consiste en la capacidad de la plantilla para transformar y mostrar diferentes contenidos (nombres, cargos, redes sociales, información proporcionada durante la entrevista) de forma instantánea mediante la interacción del usuario con la interfaz de control de vMix.</li>
+<li><strong>Vídeo "Perfil del Entrevistado"</strong>: Pieza de apoyo (VTR) que se proyectaría durante la entrevista, incluyendo edición y postproducción básica.</li>
+<li><strong>Dossier de Planificación</strong>: Escaleta técnica, hoja de seguimiento de preparación de materialesplanta de cámaras y listado de rótulos.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774343782293-ixq466a68","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Infografía técnica interactiva </strong>(Plantilla de grafismo para vMix). El alumnado diseñará una pieza gráfica en Photoshop que será animada en vMix GT Title Designer para generar una plantilla editable. El elemento interactivo consiste en la capacidad de la plantilla para transformar y mostrar diferentes contenidos (nombres, cargos, redes sociales, información proporcionada durante la entrevista) de forma instantánea mediante la interacción del usuario con la interfaz de control de vMix.</li>\n<li><strong>Vídeo \"Perfil del Entrevistado\"</strong>: Pieza de apoyo (VTR) que se proyectaría durante la entrevista, incluyendo edición y postproducción básica.</li>\n<li><strong>Dossier de Planificación</strong>: Escaleta técnica, hoja de seguimiento de preparación de materialesplanta de cámaras y listado de rótulos.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+      <odeBlockId>block-1774343846183-xtrvxnrid</odeBlockId>
+      <blockName>Herramientas tecnológicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s706x-gj2tnv3ko</odePageId>
+          <odeBlockId>block-1774343846183-xtrvxnrid</odeBlockId>
+          <odeIdeviceId>idevice-1774343846182-uqjgfkq5c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Docente</strong>: eXeLearning, Moodle (Aulas virtuales), proyector.</li>
+<li><strong>Alumnado</strong>: Photoshop/VMix (Infografía), DaVinci Resolve/Premiere (Edición de vídeo), Office 365 (Escaletas, hoja de seguimiento y dossier) y cámaras/smartphones para el rodaje.</li>
+<li><strong>Recursos</strong>: Canal de YouTube "RTVE Archivo" (análisis de entrevistas), Banco de sonidos (Epidemic Sound o Freesound).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774343846182-uqjgfkq5c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Docente</strong>: eXeLearning, Moodle (Aulas virtuales), proyector.</li>\n<li><strong>Alumnado</strong>: Photoshop/VMix (Infografía), DaVinci Resolve/Premiere (Edición de vídeo), Office 365 (Escaletas, hoja de seguimiento y dossier) y cámaras/smartphones para el rodaje.</li>\n<li><strong>Recursos</strong>: Canal de YouTube \"RTVE Archivo\" (análisis de entrevistas), Banco de sonidos (Epidemic Sound o Freesound).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn4s7073-xvw7sspxe</odePageId>
+  <odeParentPageId>page-mn4s706x-gj2tnv3ko</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn4s7073-xvw7sspxe</odePageId>
+      <odeBlockId>block-1774341767731-da22j4klx</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7073-xvw7sspxe</odePageId>
+          <odeBlockId>block-1774341767731-da22j4klx</odeBlockId>
+          <odeIdeviceId>idevice-1774341767727-dpm5p69wk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong><em>Justificación</em></strong>: En el entorno profesional, la improvisación es enemiga de la calidad. Esta SdA busca que el alumnado comprenda que el éxito de un directo depende de una planificación exhaustiva. El impacto esperado es la profesionalización de sus procesos de trabajo.</li>
+</ul>
+<ul>
+<li><em><strong>ODS y Retos del Sigo XXI</strong></em>:
+<ul style="list-style-type: square;">
+<li><strong>ODS 4</strong> (Educación de Calidad): Fomento de competencias técnicas y digitales.</li>
+<li><strong>ODS 9</strong> (Industria, Innovación e Infraestructura): Uso de herramientas tecnológicas de vanguardia.</li>
+<li><strong>Reto</strong>: Desarrollo del pensamiento crítico y la alfabetización mediática al seleccionar qué información del entrevistado es relevante.</li>
+</ul>
+</li>
+</ul>
+<p>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774341767727-dpm5p69wk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong><em>Justificación</em></strong>: En el entorno profesional, la improvisación es enemiga de la calidad. Esta SdA busca que el alumnado comprenda que el éxito de un directo depende de una planificación exhaustiva. El impacto esperado es la profesionalización de sus procesos de trabajo.</li>\n</ul>\n<ul>\n<li><em><strong>ODS y Retos del Sigo XXI</strong></em>:\n<ul style=\"list-style-type: square;\">\n<li><strong>ODS 4</strong> (Educación de Calidad): Fomento de competencias técnicas y digitales.</li>\n<li><strong>ODS 9</strong> (Industria, Innovación e Infraestructura): Uso de herramientas tecnológicas de vanguardia.</li>\n<li><strong>Reto</strong>: Desarrollo del pensamiento crítico y la alfabetización mediática al seleccionar qué información del entrevistado es relevante.</li>\n</ul>\n</li>\n</ul>\n<p>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+  <odeParentPageId>page-mn4s706x-gj2tnv3ko</odeParentPageId>
+  <pageName>Elementos Curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos Curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos Curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+      <odeBlockId>block-1774342003912-a1kivjq06</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+          <odeBlockId>block-1774342003912-a1kivjq06</odeBlockId>
+          <odeIdeviceId>idevice-1774342003909-rnnj8xk96</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>- STEM</strong>: Uso de herramientas tecnológicas y diseño de plantas espaciales.<br /><strong>- CD </strong>(Competencia Digital): Creación de contenidos interactivos y edición de vídeo.<br /><strong>- CPSAA </strong>(Personal, Social y de Aprender a Aprender): Trabajo en equipo y gestión de tiempos (plan de trabajo).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774342003909-rnnj8xk96","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>- STEM</strong>: Uso de herramientas tecnológicas y diseño de plantas espaciales.<br /><strong>- CD </strong>(Competencia Digital): Creación de contenidos interactivos y edición de vídeo.<br /><strong>- CPSAA </strong>(Personal, Social y de Aprender a Aprender): Trabajo en equipo y gestión de tiempos (plan de trabajo).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+      <odeBlockId>block-1774342107281-ffaca3kbm</odeBlockId>
+      <blockName>Competencias Específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+          <odeBlockId>block-1774342107281-ffaca3kbm</odeBlockId>
+          <odeIdeviceId>idevice-1774342107280-wyq85yakb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Resultados de Aprendizaje (RA)</strong>:</p>
+<p><em>RA1</em>: Define las características y el formato de un programa de televisión, aplicando recursos del lenguaje audiovisual según la tipología del género y las posibilidades de ubicación en la parrilla de programas de una televisión.</p>
+<p><em>RA2</em>: Desarrolla la escaleta de realización de un programa de televisión a partir del desglose del guion, relacionando las necesidades de recursos con la consecución de las intenciones expresivas de la realización multicámara</p>
+<p><em>RA3: </em>Prepara los materiales necesarios en la preproducción de un programa de televisión, relacionando sus características y condiciones con su ordenamiento en la realización.</p>
+<p><em>RA4</em>: Planifica el desarrollo espacial y temporal de la realización multicámara en control, relacionando la coordinación de las intervenciones técnicas con la consecución de las intenciones comunicativas del programa de televisión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774342107280-wyq85yakb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Resultados de Aprendizaje (RA)</strong>:</p>\n<p><em>RA1</em>: Define las características y el formato de un programa de televisión, aplicando recursos del lenguaje audiovisual según la tipología del género y las posibilidades de ubicación en la parrilla de programas de una televisión.</p>\n<p><em>RA2</em>: Desarrolla la escaleta de realización de un programa de televisión a partir del desglose del guion, relacionando las necesidades de recursos con la consecución de las intenciones expresivas de la realización multicámara</p>\n<p><em>RA3: </em>Prepara los materiales necesarios en la preproducción de un programa de televisión, relacionando sus características y condiciones con su ordenamiento en la realización.</p>\n<p><em>RA4</em>: Planifica el desarrollo espacial y temporal de la realización multicámara en control, relacionando la coordinación de las intervenciones técnicas con la consecución de las intenciones comunicativas del programa de televisión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+      <odeBlockId>block-1774346377843-dmfg3bxaw</odeBlockId>
+      <blockName>Saberes Básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+          <odeBlockId>block-1774346377843-dmfg3bxaw</odeBlockId>
+          <odeIdeviceId>idevice-1774346377840-wds3ej5ek</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Géneros y formatos informativos/entrevista.</li>
+<li>Técnicas de realización multicámara: el eje de acción y la continuidad.</li>
+<li>Documentación técnica: la escaleta de realización vs. escaleta de producción.</li>
+<li>Gestión de archivos y flujos de trabajo en servidores de vídeo.</li>
+<li>Gestión de información gráfica en programas de televisión</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774346377840-wds3ej5ek","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Géneros y formatos informativos/entrevista.</li>\n<li>Técnicas de realización multicámara: el eje de acción y la continuidad.</li>\n<li>Documentación técnica: la escaleta de realización vs. escaleta de producción.</li>\n<li>Gestión de archivos y flujos de trabajo en servidores de vídeo.</li>\n<li>Gestión de información gráfica en programas de televisión</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+      <odeBlockId>block-1774346466263-qpjojk6g4</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7074-o0zjtcsru</odePageId>
+          <odeBlockId>block-1774346466263-qpjojk6g4</odeBlockId>
+          <odeIdeviceId>idevice-1774346466261-o0pglsmrs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>RA1</strong></p>
+<p>1d) Se han determinado los recursos del lenguaje audiovisual... especificando los usos expresivos del encuadre y la composición.<br /></p>
+<p><strong>RA2</strong></p>
+<p>2a) Se ha desglosado el guion... identificando y agrupando en listas coherentes los recursos.<br />2b) Se han marcado sobre el guion las intervenciones... trasladando los datos a las hojas de desglose.<br />2e) Se ha determinado la estructura y el ritmo de la realización multicámara.<br />2f) Se ha desarrollado la escaleta... definiendo bloques, intervenciones y actuaciones técnicas.<br />2g) Se ha elaborado un plan de trabajo coordinado con producción.<br /></p>
+<p><strong>RA3</strong></p>
+<p>3a) Se ha establecido un plan para la obtención de materiales de mediatecas.<br />3b) Se ha transferido el material audiovisual... verificando calidades técnicas.<br />3c) Se han editado las piezas de vídeo necesarias para la preproducción.<br />3d, 3e, 3f, 3g) Identificación de piezas en servidor, gestión de material gráfico, confección de rótulos y gestión de música (propiedad intelectual).<br /></p>
+<p><strong>RA4</strong></p>
+<p>4a, 4b, 4c, 4d, 4e, 4g) Ubicación de sets en planta, posiciones de personajes, planificación de cámaras (tiros, movimientos), condiciones de sonido (micrófonos), efectos de iluminación y supervisión de autocue.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774346466261-o0pglsmrs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>RA1</strong></p>\n<p>1d) Se han determinado los recursos del lenguaje audiovisual... especificando los usos expresivos del encuadre y la composición.<br /></p>\n<p><strong>RA2</strong></p>\n<p>2a) Se ha desglosado el guion... identificando y agrupando en listas coherentes los recursos.<br />2b) Se han marcado sobre el guion las intervenciones... trasladando los datos a las hojas de desglose.<br />2e) Se ha determinado la estructura y el ritmo de la realización multicámara.<br />2f) Se ha desarrollado la escaleta... definiendo bloques, intervenciones y actuaciones técnicas.<br />2g) Se ha elaborado un plan de trabajo coordinado con producción.<br /></p>\n<p><strong>RA3</strong></p>\n<p>3a) Se ha establecido un plan para la obtención de materiales de mediatecas.<br />3b) Se ha transferido el material audiovisual... verificando calidades técnicas.<br />3c) Se han editado las piezas de vídeo necesarias para la preproducción.<br />3d, 3e, 3f, 3g) Identificación de piezas en servidor, gestión de material gráfico, confección de rótulos y gestión de música (propiedad intelectual).<br /></p>\n<p><strong>RA4</strong></p>\n<p>4a, 4b, 4c, 4d, 4e, 4g) Ubicación de sets en planta, posiciones de personajes, planificación de cámaras (tiros, movimientos), condiciones de sonido (micrófonos), efectos de iluminación y supervisión de autocue.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn4s7076-rwwf3f8d8</odePageId>
+  <odeParentPageId>page-mn4s706x-gj2tnv3ko</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn4s7076-rwwf3f8d8</odePageId>
+      <odeBlockId>block-1774346658894-w6rn26rx5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7076-rwwf3f8d8</odePageId>
+          <odeBlockId>block-1774346658894-w6rn26rx5</odeBlockId>
+          <odeIdeviceId>idevice-1774346658893-o2g1d451n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utilizará el <strong>Aprendizaje Basado en Proyectos </strong>(ABP). El alumnado no recibe lecciones magistrales aisladas, sino que trabaja en una "misión", llevar a cabo la planificación de un entrevista profesional. Se simula el entorno de una productora real donde el producto final es el libro de producción y realización listo para entrar a estudio.</p>
+<p>También se aplicará el <strong>Flipped Classroom </strong>para el aprendizaje de software específico (tutoriales de edición fuera de aula para dedicar el tiempo de clase a la supervisión creativa).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774346658893-o2g1d451n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utilizará el <strong>Aprendizaje Basado en Proyectos </strong>(ABP). El alumnado no recibe lecciones magistrales aisladas, sino que trabaja en una \"misión\", llevar a cabo la planificación de un entrevista profesional. Se simula el entorno de una productora real donde el producto final es el libro de producción y realización listo para entrar a estudio.</p>\n<p>También se aplicará el <strong>Flipped Classroom </strong>para el aprendizaje de software específico (tutoriales de edición fuera de aula para dedicar el tiempo de clase a la supervisión creativa).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn4s7076-dcx1t990b</odePageId>
+  <odeParentPageId>page-mn4s706x-gj2tnv3ko</odeParentPageId>
+  <pageName>Vinculación con Proyectos del Centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con Proyectos del Centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con Proyectos del Centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn4s7076-dcx1t990b</odePageId>
+      <odeBlockId>block-1774347022664-oo5tjzpf4</odeBlockId>
+      <blockName>Unidad de prevención, entorno saludable y sostenible</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7076-dcx1t990b</odePageId>
+          <odeBlockId>block-1774347022664-oo5tjzpf4</odeBlockId>
+          <odeIdeviceId>idevice-1774347022650-8na04k48q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Prevención de Riesgos Laborales </strong>(PRL): En la planificación de la planta de estudio (CE 4a) y el emplazamiento de cámaras (CE 4c), se integrarán criterios de seguridad, como el balizamiento de cableado para evitar caídas y la correcta manipulación de cargas (trípodes y proyectores).</li>
+<li><strong>Salud Auditiva y Visual</strong>: En la configuración del control de realización y puestos de edición, se establecerán pautas de ergonomía y niveles de presión sonora adecuados para prevenir la fatiga del alumnado.</li>
+<li><strong>Sostenibilidad</strong>: Se fomentará el "Plató Residuo Cero", priorizando el uso de materiales gráficos digitales (vMix) frente a escenografías físicas de un solo uso y optimizando el encendido de la iluminación para reducir el consumo energético.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774347022650-8na04k48q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Prevención de Riesgos Laborales </strong>(PRL): En la planificación de la planta de estudio (CE 4a) y el emplazamiento de cámaras (CE 4c), se integrarán criterios de seguridad, como el balizamiento de cableado para evitar caídas y la correcta manipulación de cargas (trípodes y proyectores).</li>\n<li><strong>Salud Auditiva y Visual</strong>: En la configuración del control de realización y puestos de edición, se establecerán pautas de ergonomía y niveles de presión sonora adecuados para prevenir la fatiga del alumnado.</li>\n<li><strong>Sostenibilidad</strong>: Se fomentará el \"Plató Residuo Cero\", priorizando el uso de materiales gráficos digitales (vMix) frente a escenografías físicas de un solo uso y optimizando el encendido de la iluminación para reducir el consumo energético.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s7076-dcx1t990b</odePageId>
+      <odeBlockId>block-1774347081791-3epg7tu85</odeBlockId>
+      <blockName>Unidad de convivencia, igualdad y diversidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7076-dcx1t990b</odePageId>
+          <odeBlockId>block-1774347081791-3epg7tu85</odeBlockId>
+          <odeIdeviceId>idevice-1774347081791-sgbgl1e4i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Igualdad de Género</strong>: En la fase de guion y elección del personaje para el vídeo de apoyo, se velará por un uso del lenguaje no sexista y una representación equilibrada que rompa con estereotipos de género en roles técnicos y profesionales.</li>
+<li><strong>Gestión del conflicto y diversidad</strong>: Dado que la planificación multicámara requiere un trabajo en equipo muy jerarquizado pero colaborativo (realizador, productor, operadores), se aplicarán protocolos de comunicación asertiva para garantizar un clima de respeto, integrando las diferentes capacidades y ritmos del alumnado en la asignación de tareas técnicas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774347081791-sgbgl1e4i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Igualdad de Género</strong>: En la fase de guion y elección del personaje para el vídeo de apoyo, se velará por un uso del lenguaje no sexista y una representación equilibrada que rompa con estereotipos de género en roles técnicos y profesionales.</li>\n<li><strong>Gestión del conflicto y diversidad</strong>: Dado que la planificación multicámara requiere un trabajo en equipo muy jerarquizado pero colaborativo (realizador, productor, operadores), se aplicarán protocolos de comunicación asertiva para garantizar un clima de respeto, integrando las diferentes capacidades y ritmos del alumnado en la asignación de tareas técnicas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn4s7076-dcx1t990b</odePageId>
+      <odeBlockId>block-1774347150918-1htsy409m</odeBlockId>
+      <blockName>Unidad de &quot;Comunicación, prensa, web, gestión de comunidades, puertas abiertas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7076-dcx1t990b</odePageId>
+          <odeBlockId>block-1774347150918-1htsy409m</odeBlockId>
+          <odeIdeviceId>idevice-1774347150916-g7tug510r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Difusión y Marca de Centro</strong>: El vídeo de "Perfil del Entrevistado" y la "Infografía Interactiva (vMix)" no serán solo ejercicios de clase; se seleccionarán los mejores trabajos para ser publicados en la Web del Centro y en sus Redes Sociales (Instagram/TikTok/YouTube), funcionando como muestra del nivel técnico del alumnado.</li>
+<li><strong>Gestión de Comunidades</strong>: Se planteará una tarea de "simulación de directo" donde el alumnado deba prever cómo se insertarían los comentarios de las redes sociales en el grafismo de vMix, fomentando la interacción con la audiencia digital.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774347150916-g7tug510r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Difusión y Marca de Centro</strong>: El vídeo de \"Perfil del Entrevistado\" y la \"Infografía Interactiva (vMix)\" no serán solo ejercicios de clase; se seleccionarán los mejores trabajos para ser publicados en la Web del Centro y en sus Redes Sociales (Instagram/TikTok/YouTube), funcionando como muestra del nivel técnico del alumnado.</li>\n<li><strong>Gestión de Comunidades</strong>: Se planteará una tarea de \"simulación de directo\" donde el alumnado deba prever cómo se insertarían los comentarios de las redes sociales en el grafismo de vMix, fomentando la interacción con la audiencia digital.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn4s7077-g95n0qjic</odePageId>
+  <odeParentPageId>page-mn4s706x-gj2tnv3ko</odeParentPageId>
+  <pageName>Actividades Complementarias</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades Complementarias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades Complementarias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn4s7077-g95n0qjic</odePageId>
+      <odeBlockId>block-1774346794243-ecn6odl87</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7077-g95n0qjic</odePageId>
+          <odeBlockId>block-1774346794243-ecn6odl87</odeBlockId>
+          <odeIdeviceId>idevice-1774346794242-6jtbvlp3k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se plantea la posibilidad de recibir una charla por parte de un profesional del sector explicando los pormenores de la entrevista multicámara y hablando de su experiencia personal llevándolas a cabo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774346794242-6jtbvlp3k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se plantea la posibilidad de recibir una charla por parte de un profesional del sector explicando los pormenores de la entrevista multicámara y hablando de su experiencia personal llevándolas a cabo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn4s7077-w6135w3zm</odePageId>
+  <odeParentPageId>page-mn4s706x-gj2tnv3ko</odeParentPageId>
+  <pageName>Licencia y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Licencia y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn4s7077-w6135w3zm</odePageId>
+      <odeBlockId>block-1774366643727-4yvia5uuj</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn4s7077-w6135w3zm</odePageId>
+          <odeBlockId>block-1774366643727-4yvia5uuj</odeBlockId>
+          <odeIdeviceId>idevice-1774366643724-lfjnjrzxf</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Planificación de la realización de una entrevista multicámara</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El alumnado del ciclo formativo de Grado Superior en Realización de Proyectos Audiovisuales y Espectáculos desarrollará la planificación completa de un programa de televisión basado en una entrevista multicámara, abordando todas las fases de preproducción desde una perspectiva profesional. A lo largo de 16 sesiones, el alumnado analizará el lenguaje audiovisual, desglosará guiones, elaborará escaletas, diseñará la planificación técnica (cámaras, sonido, iluminación) y organizará los recursos necesarios para la realización del programa. El resultado final será un dossier profesional de planificación, acompañado de una infografía interactiva y un vídeo real que formará parte del programa, como una pieza de biografía o contextualización del entrevistado.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
